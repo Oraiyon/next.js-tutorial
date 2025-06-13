@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Docs - Next.js Practice",
+  title: "Docs - Next.js Tutorial",
 };
 
 type Props = {

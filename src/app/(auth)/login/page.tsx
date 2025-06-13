@@ -3,7 +3,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: {
     // absolute overrides parent's title
-    absolute: "Login - Next.js Practice",
+    absolute: "Login - Next.js Tutorial",
   },
 };
 
